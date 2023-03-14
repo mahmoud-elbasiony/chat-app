@@ -7,5 +7,9 @@
 ## deployment 
 [**link**](https://chat-nodejs-app.onrender.com)
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/mahmoud-elbasiony/chat-app/blob/main/Demo.mkv)
+
+
+https://user-images.githubusercontent.com/122675815/224957629-3689a5c8-0bc7-4044-85f0-e74984877b0e.mp4
+
+
 
