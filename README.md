@@ -7,11 +7,7 @@
 ## deployment 
 [**link**](https://chatapp-qsyi.onrender.com)
 
-https://user-images.githubusercontent.com/122675815/224957629-3689a5c8-0bc7-4044-85f0-e74984877b0e.mp4
-
-
-
-
+https://user-images.githubusercontent.com/122675815/225044425-0a12555d-0c69-4223-8e55-6ca5f379cd32.mp4
 
 
 
