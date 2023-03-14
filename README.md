@@ -1,2 +1,11 @@
 # chat-app
-<video align="right" alt="GIF" src="https://github.com/mahmoud-elbasiony/chat-app/blob/main/Demo.mkv" width="500"/>
+
+## technology 
+- nodejs 
+- express 
+- socket.io
+## deployment 
+[**link**]([https://chat-nodejs-app.onrender.com])
+
+
+https://github.com/mahmoud-elbasiony/chat-app/blob/main/Demo.mkv
